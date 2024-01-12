@@ -1,4 +1,4 @@
-This is the fundamental use for weed clasifier.
+This is the fundamental use for weed classifier.
 
 1. Label the pictures you want to train in Labelling Program
       - [labelImg](https://github.com/HumanSignal/labelImg)
